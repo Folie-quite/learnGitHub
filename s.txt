@@ -6,3 +6,4 @@ in SY
 上传GitHub测试
 甲的修改
 乙修改测试
+测试gitk 和 git GUI
